@@ -1,0 +1,24 @@
+body {
+	font-family: helvetica;
+	background-color: #add8e6;
+}
+h1 {
+	text-transform: capitalize;
+	margin: 20px;
+	color: yellow;
+	font-size: 100px;
+}
+.spotlight {
+	background-color: red;
+}
+p {
+	background-color: blue;
+	font-size: 50px;
+	color: #00FF00;
+}
+h2 {
+	font-size: 50px;
+}
+ol {
+	font-size: 25px;
+}
